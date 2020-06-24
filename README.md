@@ -9,7 +9,7 @@ Learn to build an Android application that leverages two powerful mapping API's:
 - Google Maps API
 
 # Images
-<img src="images/pic1.png" height="400" width="200">  <img src="images/pic2.png" height="400" width="200">
+<img src="images/pic1.png" height="400" width="200">                  <img src="images/pic2.png" height="400" width="200">
 
 # Author
 
